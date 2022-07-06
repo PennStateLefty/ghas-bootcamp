@@ -11,5 +11,10 @@ updates:
       interval: "weekly"
   - package-ecosystem: "pip"
     directory: "/authn-service"
+    reviewers:
+      - "PennStateLefty"
     schedule:
-      interval: "weekly"
+      interval: "daily"
+    commit-message:
+      prefix: "pip"
+      include: "scope"
