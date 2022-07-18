@@ -17,7 +17,7 @@
     "uikit": "^3.5.9",
     "vue": "3.2.37",
     "vue-instantsearch": "2.7.0",
-    "vue-router": "^3.5.4",
+    "vue-router": "^4.1.2",
     "vuex": "^3.6.2",
     "vuikit": "^0.8.10"
   },
